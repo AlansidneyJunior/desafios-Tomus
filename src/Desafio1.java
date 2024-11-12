@@ -8,9 +8,9 @@ public class Desafio1 {
 		Scanner scan = new Scanner(System.in);
 		ArrayList<Integer> pares = new ArrayList<>();
 		
-		System.out.println("Digite o primeiro número limite do intervalo");
+		System.out.println("Digite o primeiro número limite do intervalo:");
 		int num1 = scan.nextInt();
-		System.out.println("Digite o segundo número limite do intervalo");
+		System.out.println("Digite o segundo número limite do intervalo:");
 		int num2 = scan.nextInt();
 		
 		for (int i = num1; i<= num2; i++) {
