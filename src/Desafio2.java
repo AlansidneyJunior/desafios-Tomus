@@ -20,6 +20,7 @@ public class Desafio2 {
 			System.out.println(palavra + " não é palíndromo!");
 		}
 		
+		scan.close();
 	}
 	
 }

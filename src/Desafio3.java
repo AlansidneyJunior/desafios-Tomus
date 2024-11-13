@@ -18,6 +18,8 @@ public class Desafio3 {
 		int n = scan.nextInt();
 		int result = fatorial(n);
 		System.out.println(result);
+		
+		scan.close();
 	}
 
 }
