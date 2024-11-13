@@ -12,6 +12,7 @@ public class Desafio6 {
 		int fibAtual = 0;
 		int i=0;
 		
+		System.out.println("Digite um número limite para a série Fibonacci");
 		int limite = scanner.nextInt();
 		
 		while(fibAtual < limite) {
