@@ -1,3 +1,14 @@
+/*7. Remoção de Duplicados
+	
+	Descrição: Desenvolva uma função que remova elementos duplicados de uma lista de
+	números e retorne uma lista contendo apenas os elementos únicos, preservando a ordem
+	original.
+	
+	Exemplo:
+	Entrada: [1, 2, 2, 3, 4, 4, 5]
+	Saída: [1, 2, 3, 4, 5]
+*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

@@ -1,3 +1,13 @@
+/* 5. Contagem de Vogais
+
+	Descrição: Escreva uma função que conte e retorne o número de vogais em uma string
+	fornecida. Considere que a string pode ter letras maiúsculas e minúsculas.
+	
+	Exemplo:
+	Entrada: "Hello World"
+	Saída: 3
+*/
+
 import java.util.Scanner;
 
 public class Desafio5 {

@@ -1,3 +1,14 @@
+/* 4. Maior Número em uma Lista
+ * 
+	Descrição: Escreva uma função que receba uma lista de números e retorne o maior valor
+	presente na lista. Não use funções prontas como max() .
+	
+	Exemplo:
+	Entrada: [5, 3, 9, 1]
+	Saída: 9
+*/
+
+
 import java.util.Scanner;
 
 public class Desafio4 {

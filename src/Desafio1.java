@@ -1,3 +1,14 @@
+/*1 - Números Pares em um Intervalo
+
+	Descrição: Escreva uma função que receba dois números inteiros como limites e retorne
+	uma lista com todos os números pares dentro desse intervalo (inclusive os limites, se forem
+	pares).
+	
+	Exemplo:
+	Entrada: (4, 10)
+	Saída: [4, 6, 8, 10]
+ */
+
 import java.util.Scanner;
 import java.util.ArrayList;
 

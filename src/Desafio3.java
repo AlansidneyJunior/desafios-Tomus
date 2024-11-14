@@ -1,3 +1,13 @@
+/* 3. Fatorial Recursivo
+
+	Descrição: Desenvolva uma função que calcule o fatorial de um número inteiro usando
+	recursão.
+	
+	Exemplo:
+	Entrada: 5
+	Saída: 120
+*/
+
 import java.util.Scanner;
 
 public class Desafio3 {

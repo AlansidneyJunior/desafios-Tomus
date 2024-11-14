@@ -1,3 +1,13 @@
+/*6. Fibonacci até um Limite
+	
+	Descrição: Escreva uma função que receba um número limite n e retorne uma lista com
+	todos os números da sequência de Fibonacci até que o próximo número ultrapasse n .
+	
+	Exemplo:
+	Entrada: 20
+	Saída: [0, 1, 1, 2, 3, 5, 8, 13]
+*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

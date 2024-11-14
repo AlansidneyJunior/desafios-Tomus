@@ -1,3 +1,14 @@
+
+/*8. Ordenação de String por Ordem Alfabética
+	
+	Descrição: Crie uma função que receba uma string e retorne as palavras dessa string em
+	ordem alfabética.
+	
+	Exemplo:
+	Entrada: "o rato roeu a roupa do rei de roma"
+	Saída: "a de do o rato rei roeu roma roupa"
+*/
+
 import java.util.Arrays;
 import java.util.Scanner;
 

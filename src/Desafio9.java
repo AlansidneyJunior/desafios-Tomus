@@ -1,3 +1,18 @@
+/* 9. Conversor de Temperatura
+
+	Descrição: Escreva uma função que converta uma temperatura de Celsius para Fahrenheit e
+	vice-versa. A função deve receber dois parâmetros: o valor da temperatura e uma string que
+	indica a unidade original ( "C" para Celsius e "F" para Fahrenheit).
+	
+	Fórmulas:
+		Fahrenheit para Celsius: C=(F − 32) / 1.8
+		Celsius para Fahrenheit: F = (C x 1.8) + 32
+		
+	Exemplo:
+	Entrada: (100, "C")
+	Saída: 212
+*/
+
 import java.util.Scanner;
 
 public class Desafio9 {

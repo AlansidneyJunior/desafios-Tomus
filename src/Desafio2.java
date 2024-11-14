@@ -1,3 +1,14 @@
+/*2. Palíndromo de Palavras
+	
+	Descrição: Crie uma função que receba uma palavra e retorne true se ela for um
+	palíndromo (ou seja, lê-se da mesma forma de trás para frente) e false caso contrário.
+	
+	Exemplo:
+	Entrada: "radar"
+	Saída: true
+
+ */
+
 import java.util.Scanner;
 
 public class Desafio2 {

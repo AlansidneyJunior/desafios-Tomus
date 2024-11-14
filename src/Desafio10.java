@@ -1,3 +1,13 @@
+/* 10. Invertendo Palavras em uma Frase
+
+	Descrição: Desenvolva uma função que receba uma frase e retorne uma nova frase com as
+	palavras invertidas na ordem original.
+	
+	Exemplo:
+	Entrada: "estou aprendendo a programar"
+	Saída: "uotse odnednerpa a ramargorp"
+*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
